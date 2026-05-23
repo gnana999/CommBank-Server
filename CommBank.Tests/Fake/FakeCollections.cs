@@ -1,6 +1,6 @@
 ﻿using CommBank.Models;
 
-namespace CommBank.Tests.Fake
+namespace CommBank.Tests;
 {
     public class FakeCollections
     {
